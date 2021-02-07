@@ -7,7 +7,7 @@ includes_dir        : _includes
 
 baseurl: "/swift-megaminds-portfolio" 
 url: ""
-github_username: swift-megaminds
+github_username: sachsom95
 
 
 sass:
